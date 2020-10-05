@@ -1,8 +1,7 @@
 # Prediction-of-Cancellations-of-Hotel-Bookings-analyzing-Customer-Traffic-using-Business-Intelligence
 Prediction if a person is going to cancel the hotel reservation he/she made. Dataset of hotel reservations with 1,19,390 records of customers with information such as reservation date, deposit type, number of adults, number of children, meal types, room type (in class) etc. Data cleaning and transformation was performed to remove the missing and null values and also to remove an unwanted column from the dataset. EDA was also performed to gain the maximum knowledge from the dataset. Used a tool, KNIME which is helpful for using algorithms, creating models and deploying the model to work for predicting cancellation of new reservations. We use two different algorithms namely Decision Tree Algorithm and Naive Bayes Algorithm. Comparing both of the algorithms we experienced better accuracy in the Decision Tree Algorithm. We received an accuracy of 83%.
 
-Dataset:
-Link to Dataset: https://www.kaggle.com/jessemostipak/hotel-booking-demand
+Dataset: https://www.kaggle.com/jessemostipak/hotel-booking-demand
 
 
 Data Exploration:
